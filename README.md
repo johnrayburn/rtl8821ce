@@ -1,3 +1,8 @@
+# SEE ORIGINAL
+https://github.com/tomaspinho/rtl8821ce
+
+Forked to resolve non-reproducible compile error in core/rtw_debug.c:line 45: `__DATE__` & `__TIME__`. Temporary fix is to set to fixed strings "TODAY" & "NOW".
+
 # Realtek RTL8821CE Driver
 
 ## Intent
